@@ -73,23 +73,23 @@ freecodecamp.org
 
 ## Experience
 
-HG Education (Feb 2019 to present)
-Part-time team leader/assistant 
+HG Education (Feb 2019 to present)   
+Part-time team leader/assistant
 - Teach primary school children to learn how to code using Scratch and build robots with VEX/LEGO robotics.
 
 BDO LLP (Sep 2017 to Nov 2018)    
 Junior Tax Associate - Tax Dispute Resolution Department
 
-Sandrock Investments Ltd (Nov 2018 to present)
+Sandrock Investments Ltd (Nov 2018 to present) 
 Director (family business)
 
 Tradex S.P.R.L Ltd (Oct 2016 to Feb 2017)   
 General Assistant 
 
-Deloitte Consulting Ltd in Tanzania (Sep 2015 to Oct 2015)
-Human Capital Intern 
+Deloitte Consulting Ltd in Tanzania (Sep 2015 to Oct 2015) 
+Human Capital Intern
 
-Young Enterprise (Sep 2012 to May 2012)
+Young Enterprise (Sep 2012 to May 2012) 
 Financial Director
 
 ## Hobbies and Interests
