@@ -1,6 +1,6 @@
 ## Riya Dattani
 
-An intellectually-curious and energetic coding student geared to work in the technology industry and extend my programming knowledge. 
+I am an intellectually-curious and energetic coding student geared to work in the technology industry and extend my programming knowledge. 
 
 Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
