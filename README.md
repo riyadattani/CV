@@ -8,7 +8,7 @@ I am an enthusiastic, confident and eclectic software developer geared to launch
 
 From analysing economic models during my economics degree to dealing with tax fraud in accordance with UK law, my diverse background has shaped my passion of deciphering practical problems, creatively building useful solutions while continuously learning and growing with like-minded individuals.
 
-I gravitated to the tech industry because I am an advocate of effectively and ethically using technology to positively impact economic, social and environmental change. I am driven to be a part of this by utilizing my programming processes paired with my problem solving skills to develop high-quality code for meaningful ideas or dilemmas.
+I gravitated to the tech industry because I am an advocate of effectively and ethically using technology to positively impact economic, social and environmental change. I am driven to be a part of this by utilizing my programming processes paired with my problem-solving skills to develop high-quality code for meaningful ideas or dilemmas.
 
 I recently graduated from [Makers Academy](https://makers.tech/), an intensive software bootcamp, where I up-skilled and established a strong foundation of programming concepts, processes and agile practices. I am looking to kickstart my tech career in a growth mindset atmosphere where I can be challenged.
 
@@ -17,11 +17,11 @@ I recently graduated from [Makers Academy](https://makers.tech/), an intensive s
 |Project | Description | Technology |
 | ----- | ----- | ----- |
 | [Raspberry Pi Weather Station](https://github.com/riyadattani/makers-weather-station) | Final 9 day project in which sensors are connected to a Raspberry Pi Computer to generate primary data and displayed on a single page app - microservices architecture | Python, Pytest, Javascript, NodeJS, Express, MongoDB, Mocha, Jest, HTML, CSS |
-| [Acebook](https://github.com/riyadattani/acebook-winklebossnit) (visit on [Heroku](https://winklebossnit-acebook.herokuapp.com/) | 10 day team project to build a Facebook clone using Agile practices | Ruby, Rails, RSpec, Capybara, HTML, CSS, Postgres |
-| [MakersBnB](https://github.com/riyadattani/makersbnb) | 1 week team project to build an AirBnB clone | Ruby, PostgreSQL, Sinatra, HTML, CSS |
-| [Bank Tech Test](https://github.com/riyadattani/bankTechTest) | REPL app built in Javascript (3 days) | Javascript, Jasmine |
+| [Acebook](https://github.com/riyadattani/acebook-winklebossnit) (visit on [Heroku](https://winklebossnit-acebook.herokuapp.com/) | 10 day team project to build a Facebook clone using agile practices - users can post on a wall and add each other as friends | Ruby, Rails, RSpec, Capybara, HTML, CSS, PostgresSQL |
+| [MakersBnB](https://github.com/riyadattani/makersbnb) | 1 week team project to build an AirBnB clone - users can list, request and book spaces | Ruby, PostgreSQL, Sinatra, HTML, CSS |
+| [Bank Tech Test](https://github.com/riyadattani/bankTechTest) | REPL app built in Javascript printing a bank statement (3 days) | Javascript, Jasmine |
 | [Chitter challenge](https://github.com/riyadattani/chitter-challenge) | Weekend challenge to build a Twitter clone |  Ruby, PostgreSQL, Sinatra, HTML, CSS |
-| [Rock, Paper, Scissors](https://github.com/riyadattani/rps-challenge) | Weekend challenge to build a web app | Ruby, Sinatra, RSpec, Capybara, CSS |
+| [Rock, Paper, Scissors](https://github.com/riyadattani/rps-challenge) | Weekend challenge to build a web app - users play the game versus the computer | Ruby, Sinatra, RSpec, Capybara, CSS |
 | [Airport challenge in Ruby](https://github.com/riyadattani/airport_challenge) | Weekend challenge to build a REPL app | Ruby, Rspec |
 
 ## Skills
@@ -42,13 +42,13 @@ I have applied this when studying at Makers where I had the opportunity to revie
 
 A large part of job as a junior tax associate was to compute the additional tax a client owed by analysing their unclear historical tax data and minimising the late payment interest and penalties additional to their base tax. To practically achieve this in a fixed time period, as a team we compartmentalized the data relevant to different types of tax and identified the missing holes. We then liaised with the client or third-parties to recover information or made realistic assumptions and created a viable plan. We methodically executed the plan while keeping HMRC in the loop and iteratated on the report documenting our process and the proposed tax payable.
 
-From this experience, weaved with a programming-focused [problem-solving method](https://github.com/riyadattani/makers-portfolio/blob/master/1-i-can-make-anything/6-i-have-a-methodological-approach-to-solve-problems.md) I formed during Makers, I am eqipped to tackle challenges with my analytical mind and continously sculpt my problem solving skills.
+From this experience, weaved with a programming-focused [problem-solving method](https://github.com/riyadattani/makers-portfolio/blob/master/1-i-can-make-anything/6-i-have-a-methodological-approach-to-solve-problems.md) I formed during Makers, I am equipped to tackle challenges with my analytical mind and continously sculpt my problem-solving skills.
 
 #### Team player
 
 Having experienced the importance of team decision making, cohesiveness and adaptability when playing competitive sports such as netball as well as the advantages of agile practices, prioritisation and division of tasks during team projects at Makers, I truly believe in the phrase 'teamwork makes the dream work'.
 
-As a software developer I value knowledge sharing (even if its touching on small points such as this [wiki](https://github.com/riyadattani/weather_station_server/wiki/Code-climate-coverage-configuration-on-.travis.yml-file) I wrote), collaborating effectively to deliver high quality work and helping others grow too. 
+As a software developer I value knowledge sharing (even if its touching on small points such as this [wiki](https://github.com/riyadattani/weather_station_server/wiki/Code-climate-coverage-configuration-on-.travis.yml-file) I wrote), collaborating effectively to deliver high quality work and helping others grow too.
 
 ## Education
 
@@ -105,7 +105,7 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 
 ## Experience
 
-**HG Education** | *Part-time team leader/assistant* | Feb 2019 - present
+**HG Education** | *Part-time club leader/assistant* | Feb 2019 - present
 
 - Teach primary school children (groups up to 16) to build robots with VEX/LEGO robotics
 - Help students to develop their creative and problem-solving skills by pointing them in the right direction and challenging them
@@ -117,7 +117,7 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 - Involved in implementing strategic methods to resolving tax disputes between a client and HMRC
 - Studied towards the CTA qualification which included clear writing and opinion writing skills, tax legislative reading and its application in practice
 - Computed tax calculations on MS Excel such as additional tax owed by a client after adjustments of tax, late payment interest and penalties
-- Received excellent feedback from each senior colleague I worked with highlighting my interpersonal skills within the team and with the client, attention to detail when extracting relevant information from a sea of documents and efficiently completing tasks to a high standard
+- Received excellent feedback from each senior colleague I worked with highlighting my interpersonal skills within the team and with the client, attention to detail when extracting relevant information from an extensive set of documents and efficiently completing tasks to a high standard
 - Selected to be Master of Ceremonies (MC) to host the annual open day for approximately 300 new graduates joining BDO in September 2018
 
 **Sandrock Investments Ltd** | *Director* | Nov 2018 - present
@@ -126,7 +126,6 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 - Monitor investment properties currently held by the company and strategically search for fruitful investments to extend our portfolio
 
 **Tradex S.P.R.L Ltd** | *General Assistant* | Oct 2016 - Feb 2017
-*General Assistant*
 
 - Liaised with the web developer during the development of the company website to ensure our specifications in terms of the look and content were met
 - Iteratively updated/corrected financial records and liaised with the company's accountant to ensure the accounts correctly reflected the trade
@@ -145,7 +144,7 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 
 ## Volunteering
 
-Part of a female millennial community called [**Now You're Talking**](https://twitter.com/NYTNetwork) which connects future leaders to opportunities and resources.
+Part of a female millennial community called [Now You're Talking](https://twitter.com/NYTNetwork) which connects future leaders to opportunities and resources.
 
 _Head of Branding and Marketing_ volunteer for event: Side Hustle Showcase 2019
   - In charge of the social media plan and content outflow across all platforms
