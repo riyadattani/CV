@@ -2,7 +2,7 @@
 
 ***
 
-[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Volunteering](#Volunteering) | [Interests](#Interests) | [LinkedIn](linkedin.com/in/riya-dattani-001)
+[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Volunteering](#Volunteering) | [Hobbies & Interests](#Hobbies-&-Interests) | [LinkedIn](https://www.linkedin.com/in/riya-dattani-001)
 
 I am an enthusiastic, confident and eclectic software developer geared to launch my career in the technology space.
 
@@ -152,7 +152,7 @@ _Head of Branding and Marketing_ volunteer for event: Side Hustle Showcase 2019
   - Promotion via magazines and online publications
 
 
-## Hobbies and Interests
+## Hobbies & Interests
 
 - Classical Indian Dancer (in Bharatnatyam) since childhood
 - Avid netball, badminton, tennis and table tennis player at various clubs
