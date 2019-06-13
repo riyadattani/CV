@@ -2,7 +2,7 @@
 
 ***
 
-[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Volunteering](#Volunteering) | [Hobbies & Interests](#Interests) | [LinkedIn](https://www.linkedin.com/in/riya-dattani-001)
+[Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Volunteering](#Volunteering) | [Interests](#Interests) | [LinkedIn](https://www.linkedin.com/in/riya-dattani-001)
 
 I am an enthusiastic, confident and eclectic software developer geared to launch my career in the technology space.
 
