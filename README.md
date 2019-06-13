@@ -120,7 +120,7 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 - Received excellent feedback from each senior colleague I worked with highlighting my interpersonal skills within the team and with the client, attention to detail when extracting relevant information from an extensive set of documents and efficiently completing tasks to a high standard
 - Selected to be Master of Ceremonies (MC) to host the annual open day for approximately 300 new graduates joining BDO in September 2018
 
-**Sandrock Investments Ltd** | *Director* | Nov 2017 - present
+**Sandrock Investments Ltd** | *Director* | Nov 2016 - present
 
 - Family property investment business
 - Monitor investment properties currently held by the company and strategically search for fruitful investments to extend our portfolio
