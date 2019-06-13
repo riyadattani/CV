@@ -54,7 +54,7 @@ As a software developer I value knowledge sharing (even if its touching on small
 
 #### Makers Academy | Feb 2019 - May 2019
 
-A 16-week intensive software development bootcamp. [Here](https://github.com/riyadattani/makers-portfolio) is a link to my Makers Portfolio specifically highlighting the course goals along with evidence and feedback of how I achieved them.
+A 16-week intensive software development bootcamp. [Here](https://github.com/riyadattani/makers-portfolio) is a link to my Makers Portfolio specifically highlighting the course goals along with evidence and feedback on acheiving them.
 
 - Pair programming, Agile practices and XP values
 - OOP, SOLID, MVC
@@ -93,7 +93,6 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 
 - VLOOKUP, IF statements, pivot tables and basic macros
 
-
 #### St Helens School, London, UK | Sep 2011 - Jul 2013
 
 - A-Levels in Mathematics, Economics and Psychology
@@ -116,7 +115,7 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 
 - Involved in implementing strategic methods to resolving tax disputes between a client and HMRC
 - Studied towards the CTA qualification which included clear writing and opinion writing skills, tax legislative reading and its application in practice
-- Computed tax calculations on MS Excel such as additional tax owed by a client after adjustments of tax, late payment interest and penalties
+- Computed tax calculations on MS Excel including adjustments to tax, late payment interest and penalties
 - Received excellent feedback from each senior colleague I worked with highlighting my interpersonal skills within the team and with the client, attention to detail when extracting relevant information from an extensive set of documents and efficiently completing tasks to a high standard
 - Selected to be Master of Ceremonies (MC) to host the annual open day for approximately 300 new graduates joining BDO in September 2018
 
@@ -129,13 +128,12 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 
 - Liaised with the web developer during the development of the company website to ensure our specifications in terms of the look and content were met
 - Iteratively updated/corrected financial records and liaised with the company's accountant to ensure the accounts correctly reflected the trade
-- Gained insight into African markets when going through the process of launching a new product (Riki Cooking Oil) in DR Congo
 
 **Deloitte Consulting Ltd in Tanzania** | *Human Capital Intern* | Sep 2015 - Oct 2015
 
 - Worked in a team of 7 to recruit various positions of different levels for multiple clients in a short timeframe
 - Organised the summaries of all historical recruitments the company has worked upon in MS Excel
-- Reached out and connected with suitable institutions (e.g. universities) to partner with Deloitte to develop leadership programs which will help graduates expand their skills in leadership and management
+- Reached out and connected with suitable institutions to partner with Deloitte to develop leadership programs which will help graduates expand their skills in leadership and management
 
 **Young Enterprise** | *Financial Director* | Sep 2012 - May 2012
 
