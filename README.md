@@ -19,8 +19,7 @@ I recently graduated from [Makers Academy](https://makers.tech/), an intensive s
 | [Raspberry Pi Weather Station](https://github.com/riyadattani/makers-weather-station) | Final 9 day project in which sensors are connected to a Raspberry Pi Computer to generate primary data and displayed on a single page app - microservices architecture | Python, Pytest, Javascript, NodeJS, Express, MongoDB, Mocha, Jest, HTML, CSS |
 | [Acebook](https://github.com/riyadattani/acebook-winklebossnit) (visit on [Heroku](https://winklebossnit-acebook.herokuapp.com/) | 10 day team project to build a Facebook clone using Agile practices | Ruby, Rails, RSpec, Capybara, HTML, CSS, Postgres |
 | [MakersBnB](https://github.com/riyadattani/makersbnb) | 1 week team project to build an AirBnB clone | Ruby, PostgreSQL, Sinatra, HTML, CSS |
-| [News summary challenge](https://github.com/riyadattani/news-summary-challenge) | Weekend challenge to display current news pulled from the Guardian API  | Javascript, Jasmine, jQuery, CSS  |
-| [Bank Tech Test](https://github.com/riyadattani/bankTechTest) | REPL app built in Javascript (2 days) | Javascript, Jasmine |
+| [Bank Tech Test](https://github.com/riyadattani/bankTechTest) | REPL app built in Javascript (3 days) | Javascript, Jasmine |
 | [Chitter challenge](https://github.com/riyadattani/chitter-challenge) | Weekend challenge to build a Twitter clone |  Ruby, PostgreSQL, Sinatra, HTML, CSS |
 | [Rock, Paper, Scissors](https://github.com/riyadattani/rps-challenge) | Weekend challenge to build a web app | Ruby, Sinatra, RSpec, Capybara, CSS |
 | [Airport challenge in Ruby](https://github.com/riyadattani/airport_challenge) | Weekend challenge to build a REPL app | Ruby, Rspec |
@@ -29,25 +28,27 @@ I recently graduated from [Makers Academy](https://makers.tech/), an intensive s
 
 #### Excellent communicator
 
-During my time at BDO LLP, I had a client-facing role where I obtained and recorded relevant information from the client to wholly understand their tax position. Due to the sensitive nature of these cases, not only did I learn to converse in an objective way but I also learned to respond effectively based on body language and personality type. Additionally, as a part-time club leader to primary school children, I constantly practice explaining tasks in a clear and simple way by breaking the tasks down and point them in the right direction or challenging them to extend their ability to creatively solve problems.
+During my time at BDO LLP, I had a client-facing role where I obtained and recorded relevant information from the client to wholly understand their tax position. Due to the sensitive nature of these cases, not only did I learn to converse in an objective way but I also learned to respond effectively based on body language and personality type. Additionally, as a part-time club leader to primary school children, I constantly practice explaining tasks in a clear and simple way by breaking the tasks down and pointing them in the right direction or challenging them to extend their ability to creatively solve problems.
 
-As a result, my emotional intelligence is growing which is useful for pair programming, explaining technical concepts in lament terms and building a good relationship with the people around me.
+As a result, my growing emotional intelligence enables me to articulate well during scenarios such as pair programming, explaining technical concepts in lament terms and building a good relationship with the people around me.
 
 #### Attention to finer details
 
 From filtering over 120 CV's for 6 managerial positions in a time-frame of 2.5 weeks to sieving through a sea of documents to extract relevant information to calculate the additional tax owed to HMRC by a client, I have honed a sharp eye for finer details.
 
-I have applied this when studying at Makers where I had the opportunity to review my peer's code to either methodically spot the source of the bug in their code or provide feedback to improve their code by understanding the underliying functionallity of their program.
+I have applied this when studying at Makers where I had the opportunity to review my peer's code and either methodically spot the source of the bug in their code or provide feedback to improve their code by understanding the underliying functionallity of their program.
 
 #### Analytical and practical
 
-A large part of job as a junior tax associate was to compute the additional tax owed by a client based on analysing their unclear historical tax data and minimising the late payment interest and penalties additional to the base tax. To practically achieve this in a fixed time period, in a team we compartmentalized the clients areas of tax and identified the missing holes in the historical data, recovered this information or made realistic assumptions and created a viable plan. We methodically executed the plan while keeping HMRC in the loop and iteratated on the tax proposal report on behalf of the client.
+A large part of job as a junior tax associate was to compute the additional tax a client owed by analysing their unclear historical tax data and minimising the late payment interest and penalties additional to their base tax. To practically achieve this in a fixed time period, as a team we compartmentalized the data relevant to different types of tax and identified the missing holes. We then liaised with the client or third-parties to recover information or made realistic assumptions and created a viable plan. We methodically executed the plan while keeping HMRC in the loop and iteratated on the report documenting our process and the proposed tax payable.
 
-From this experience, weaved with a programming-focused [problem-solving process method](https://github.com/riyadattani/makers-portfolio/blob/master/1-i-can-make-anything/6-i-have-a-methodological-approach-to-solve-problems.md) I unfolded, I have developed an analytical mind to tackle challenges.
+From this experience, weaved with a programming-focused [problem-solving method](https://github.com/riyadattani/makers-portfolio/blob/master/1-i-can-make-anything/6-i-have-a-methodological-approach-to-solve-problems.md) I formed during Makers, I am eqipped to tackle challenges with my analytical mind and continously sculpt my problem solving skills.
 
 #### Team player
 
+Having experienced the importance of team decision making, cohesiveness and adaptability when playing competitive sports such as netball as well as the advantages of agile practices, prioritisation and division of tasks during team projects at Makers, I truly believe in the phrase 'teamwork makes the dream work'.
 
+As a software developer I value knowledge sharing (even if its touching on small points such as this [wiki](https://github.com/riyadattani/weather_station_server/wiki/Code-climate-coverage-configuration-on-.travis.yml-file) I wrote), collaborating effectively to deliver high quality work and helping others grow too. 
 
 ## Education
 
@@ -71,27 +72,24 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 - Dissertation title: Comparing the Life Satisfaction among Ethnic Group Immigrants and Non-immigrants in the United States
   - Analysed data using a statistical software called STATA
 
-#### Online courses (Ongoing)
+#### Online courses:
 
-**Harvard University (edX.org)**
-*CS50 Introduction to Computer Science*
+###### Harvard University (edX.org) | *CS50 Introduction to Computer Science (Ongoing)*
 - Topics: abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
 - Languages: C, Python, SQL, JavaScript, CSS and HTML
 
-**Code Academy**
+###### Code Academy
 - Introduction to Ruby
 - Git and GitHub
 
-#### Citibank Europe | July 2017
-*[Young Successor Program](https://www.citibank.co.uk/personal/highlights.do?article=programmes_and_initiatives_for_young_successors)*
+#### Citibank Europe | *Young Successor [Program](https://www.citibank.co.uk/personal/highlights.do?article=programmes_and_initiatives_for_young_successors)* | July 2017
 
 - Three-day learning program exclusively for young adults from Citigold Private Client families
 - Talks from Tesla, AI masterclass, Q&A held by FinTech Co-Founder of Fluidly, how to start a business workshop and learning how to invest successfully talk
-- Presented a way to use Blockchain in the real estate industry to a crowd of approximately 50 people
+- Presented how Blockchain can be used in the real estate industry to a crowd of approximately 50 people
 - Produced a FinTech business proposal, in a group of 6, which included a banking app to educate young people how to invest their money based on their financial situation
 
-#### City University | Oct 2016 - Dec 2016
-*Short Course: Applied MS Excel for Business*
+#### City University | *Short Course: Applied MS Excel for Business* | Oct 2016 - Dec 2016
 
 - VLOOKUP, IF statements, pivot tables and basic macros
 
@@ -107,16 +105,14 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 
 ## Experience
 
-**HG Education** | Feb 2019 - present
-*Part-time team leader/assistant*
+**HG Education** | *Part-time team leader/assistant* | Feb 2019 - present
 
 - Teach primary school children (groups up to 16) to build robots with VEX/LEGO robotics
 - Help students to develop their creative and problem-solving skills by pointing them in the right direction and challenging them
 - Clearly explain tasks by breaking them down
 - Ensure the students have accomplished part if not the entire task to the best of their ability by the end of the session
 
-**BDO LLP** | Sep 2017 - Nov 2018
-*Junior Tax Associate - [Tax Dispute Resolution Department](https://www.bdo.co.uk/en-gb/services/tax/tax-dispute-resolution-services)*
+**BDO LLP** | *Junior Tax Associate - [Tax Dispute Resolution Department](https://www.bdo.co.uk/en-gb/services/tax/tax-dispute-resolution-services)* | Sep 2017 - Nov 2018
 
 - Involved in implementing strategic methods to resolving tax disputes between a client and HMRC
 - Studied towards the CTA qualification which included clear writing and opinion writing skills, tax legislative reading and its application in practice
@@ -124,27 +120,25 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 - Received excellent feedback from each senior colleague I worked with highlighting my interpersonal skills within the team and with the client, attention to detail when extracting relevant information from a sea of documents and efficiently completing tasks to a high standard
 - Selected to be Master of Ceremonies (MC) to host the annual open day for approximately 300 new graduates joining BDO in September 2018
 
-**Sandrock Investments Ltd** | Nov 2018 - present
-*Director (family property investment business)*
+**Sandrock Investments Ltd** | *Director* | Nov 2018 - present
 
+- Family property investment business
 - Monitor investment properties currently held by the company and strategically search for fruitful investments to extend our portfolio
 
-**Tradex S.P.R.L Ltd** | Oct 2016 - Feb 2017
+**Tradex S.P.R.L Ltd** | *General Assistant* | Oct 2016 - Feb 2017
 *General Assistant*
 
 - Liaised with the web developer during the development of the company website to ensure our specifications in terms of the look and content were met
 - Iteratively updated/corrected financial records and liaised with the company's accountant to ensure the accounts correctly reflected the trade
 - Gained insight into African markets when going through the process of launching a new product (Riki Cooking Oil) in DR Congo
 
-**Deloitte Consulting Ltd in Tanzania** | Sep 2015 - Oct 2015
-*Human Capital Intern*
+**Deloitte Consulting Ltd in Tanzania** | *Human Capital Intern* | Sep 2015 - Oct 2015
 
 - Worked in a team of 7 to recruit various positions of different levels for multiple clients in a short timeframe
 - Organised the summaries of all historical recruitments the company has worked upon in MS Excel
 - Reached out and connected with suitable institutions (e.g. universities) to partner with Deloitte to develop leadership programs which will help graduates expand their skills in leadership and management
 
-**Young Enterprise** | Sep 2012 - May 2012
-*Financial Director*
+**Young Enterprise** | *Financial Director* | Sep 2012 - May 2012
 
 - Sourced an eco-friendly (gift) card made from seeded paper that can germinate into a plant
 - Recorded transactions throughout the project to produce the final profit and loss accounts and balance sheet
