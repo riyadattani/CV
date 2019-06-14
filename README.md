@@ -36,7 +36,7 @@ As a result, my growing emotional intelligence enables me to articulate well dur
 
 From filtering over 120 CV's for 6 managerial positions in a time-frame of 2.5 weeks to sieving through a sea of documents to extract relevant information to calculate the additional tax owed to HMRC by a client, I have honed a sharp eye for finer details.
 
-I have applied this when studying at Makers where I had the opportunity to review my peer's code and either methodically spot the source of the bug in their code or provide feedback to improve their code by understanding the underliying functionallity of their program.
+I have applied this when studying at Makers where I had the opportunity to review my peer's code and either [methodically spot the source of the bug](https://github.com/riyadattani/makers-portfolio/blob/master/1-i-can-make-anything/3-i-can-debug-anything.md) in their code or provide feedback to improve their code by understanding the underliying functionallity of their program.
 
 #### Analytical and practical
 
@@ -46,7 +46,7 @@ From this experience, weaved with a programming-focused [problem-solving method]
 
 #### Team player
 
-Having experienced the importance of team decision making, cohesiveness and adaptability when playing competitive sports such as netball as well as the advantages of agile practices, prioritisation and division of tasks during team projects at Makers, I truly believe in the phrase 'teamwork makes the dream work'.
+Having experienced the importance of team decision making, cohesiveness and adaptability when playing competitive sports such as netball as well as the advantages of [agile practices](https://github.com/riyadattani/makers-portfolio/blob/master/2-i-help-my-teams-succeed/1-i-use-an-agile-product-development-process.md), prioritisation and division of tasks during team projects at Makers, I truly believe in the phrase 'teamwork makes the dream work'.
 
 As a software developer I value knowledge sharing (even if its touching on small points such as this [wiki](https://github.com/riyadattani/weather_station_server/wiki/Code-climate-coverage-configuration-on-.travis.yml-file) I wrote), collaborating effectively to deliver high quality work and helping others grow too.
 
@@ -58,7 +58,7 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 
 - Pair programming, Agile practices and XP values
 - OOP, SOLID, MVC
-- Solid TDD for all projects
+- Solid [TDD](https://github.com/riyadattani/makers-portfolio/blob/master/1-i-can-make-anything/1-i-can-tdd-anything.md) for all projects
 - Ruby, Rails, Python, JavaScript, Sinatra, Express, NodeJS
 - RSpec, Capybara, Pytest, Jasmine, Jest, Mocha
 - MongoDB, PostgreSQL
