@@ -85,7 +85,7 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 #### Citibank Europe | *Young Successor [Program](https://www.citibank.co.uk/personal/highlights.do?article=programmes_and_initiatives_for_young_successors)* | July 2017
 
 - Three-day learning program exclusively for young adults from Citigold Private Client families
-- Talks from Tesla, AI masterclass, Q&A held by FinTech Co-Founder of Fluidly, how to start a business workshop and learning how to invest successfully talk
+- Talks from Tesla, AI and Blockchain masterclass at Imperial University, Q&A held by FinTech Co-Founder of Fluidly, how to start a business workshop and learning how to invest successfully talk
 - Presented how Blockchain can be used in the real estate industry to a crowd of approximately 50 people
 - Produced a FinTech business proposal, in a group of 6, which included a banking app to educate young people how to invest their money based on their financial situation
 
@@ -113,7 +113,7 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 
 **BDO LLP** | *Junior Tax Associate - [Tax Dispute Resolution Department](https://www.bdo.co.uk/en-gb/services/tax/tax-dispute-resolution-services)* | Sep 2017 - Nov 2018
 
-- Involved in implementing strategic methods to resolving tax disputes between a client and HMRC
+- Involved in implementing strategic methods resolving tax disputes between a client and HMRC
 - Studied towards the CTA qualification which included clear writing and opinion writing skills, tax legislative reading and its application in practice
 - Computed tax calculations on MS Excel including adjustments to tax, late payment interest and penalties
 - Received excellent feedback from each senior colleague I worked with highlighting my interpersonal skills within the team and with the client, attention to detail when extracting relevant information from an extensive set of documents and efficiently completing tasks to a high standard
@@ -144,7 +144,7 @@ A 16-week intensive software development bootcamp. [Here](https://github.com/riy
 
 Part of a female millennial community called [Now You're Talking](https://twitter.com/NYTNetwork) which connects future leaders to opportunities and resources.
 
-_Head of Branding and Marketing_ volunteer for event: Side Hustle Showcase 2019
+_Head of Branding and Marketing_ volunteer for the event: Side Hustle Showcase 2019
   - In charge of the social media plan and content outflow across all platforms
   - Producing content to promote to potential speakers and stall owners
   - Promotion via magazines and online publications
