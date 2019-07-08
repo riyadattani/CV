@@ -23,7 +23,7 @@ I recently graduated from [Makers Academy](https://makers.tech/), an intensive s
 
 ## Skills
 #### Excellent communicator
-During my time at BDO LLP, I had a client-facing role and dealt with sensitive cases on tax fraud. Not only did I learn to communicate in an objective way but I also learned to respond effectively based on body language and personality type. Additionally, as a part-time club leader to primary school children, I practice explaining tasks in a clear way by breaking the tasks down and pointing them in the right direction.
+During my time at BDO LLP, I had a client-facing role and dealt with sensitive cases on tax fraud. Not only did I learn to communicate in an objective way but I also learned to respond effectively based on body language and personality type. Additionally, as a part-time club leader to primary school children, I practice explaining tasks in a clear way by breaking the tasks down and providing direction.
 
 As a result, my growing emotional intelligence enables me to articulate well during scenarios such as pair programming, explaining technical concepts in lament terms and building a good relationship with the people around me.
 
@@ -47,7 +47,7 @@ As a software developer I value knowledge sharing (even if its touching on small
 [Here](https://github.com/riyadattani/makers-portfolio) is a link to my Makers Portfolio highlighting the course goals along with evidence and feedback on achieving them.
 
 - Pair programming, Agile practices and XP values
-- OOP, MVC
+- OOP, MVC, BDD
 - [TDD](https://github.com/riyadattani/makers-portfolio/blob/master/1-i-can-make-anything/1-i-can-tdd-anything.md) for all projects
 - Ruby, Ruby on Rails, Python, JavaScript, Sinatra, Express, NodeJS
 - RSpec, Capybara, Pytest, Jasmine, Jest, Mocha
@@ -64,10 +64,6 @@ As a software developer I value knowledge sharing (even if its touching on small
 #### Harvard University online course (edX.org) | *CS50 Introduction to Computer Science (Ongoing)*
 - Topics: abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development
 - Languages: C, Python, SQL, JavaScript, CSS and HTML
-
-#### Citibank Europe | *Young Successor [Program](https://www.citibank.co.uk/personal/highlights.do?article=programmes_and_initiatives_for_young_successors)* | July 2017
-- Absorbed information on blockchain from the introductory talks of the program and applied its uses to the real estate industry - presented my inference to an audience of approximately 50 people
-- Produced a FinTech business proposal: a banking app to educate young people how to invest their money based on their financial situation
 
 #### City University | *Short Course: Applied MS Excel for Business* | Oct 2016 - Dec 2016
 - VLOOKUP, IF statements, pivot tables and basic macros
@@ -88,7 +84,11 @@ As a software developer I value knowledge sharing (even if its touching on small
 **BDO LLP** | *Junior Tax Associate - Tax Dispute Resolution Department* | Sep 2017 - Nov 2018
 - Implemented strategic methods resolving tax disputes between a client and HMRC by day and studied towards the CTA qualification by night
 - Computed tax calculations on MS Excel including adjustments to tax, late payment interest and penalties
-- Selected to be Master of Ceremonies (MC) to host the annual open day for approximately 300 new graduates joining BDO in September 2018
+- Selected to be Master of Ceremonies (MC) to host the annual open day for approximately 300 new graduates joining BDO
+
+**Citibank Europe** | *Young Successor [Program](https://www.citibank.co.uk/personal/highlights.do?article=programmes_and_initiatives_for_young_successors)* | July 2017
+- Absorbed information on blockchain from the introductory talks of the program and applied its uses to the real estate industry - presented my inference to an audience of approximately 50 people
+- Produced a FinTech business proposal(in a group of 5): a banking app to educate young people how to invest their money based on their financial situation
 
 **Tradex S.P.R.L Ltd** | *General Assistant* | Oct 2016 - Feb 2017
 - Liaised with the graphic designer during the development of the company website to ensure our specifications in terms of the look and content were met
@@ -103,6 +103,9 @@ As a software developer I value knowledge sharing (even if its touching on small
 **[Now You're Talking](https://twitter.com/NYTNetwork) network** | *Head of Branding and Marketing volunteer* for the event: Side Hustle Showcase 2019 | May 2019 - present
 - Female-led network connecting future leaders with opportunities and resources
 - In charge of promotion and the social media plan across all platforms
+
+**Women Driven Developement** | *Developer volunteer* | April 2019
+- Contributed to developing a fill-in form using React as the framework for the London Village Network
 
 ## Interests
 - Classical Indian Dancer (Bharatnatyam)
